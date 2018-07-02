@@ -36,7 +36,7 @@ class Strand:
     def __repr__(this):
         accuString=""
         for b in this.nucleoAcids:
-            accuString+=b.__repr__()
+            accuString+=f"{b}"
         return accuString
 
 

@@ -24,8 +24,8 @@ if __name__=="__main__":
     affiche("display pseudo protein ");
     print(aminoAcids);
     """"
-    test strand generation  
-    nucleo acid:	'A''C''G''T''C''C''G''G''T''A''T''T''T''A''A''T''C''G''T'
+     test strand generation  
+    nucleo acid:	ACGTCCGGTATTTAATCGT
     type:	Strand
      test Dna generation  
     nucleo acid:	ACGTCCGGTATTTAATCGT
@@ -33,8 +33,8 @@ if __name__=="__main__":
      test Dna compl generation  
     nucleo acid:	ACGTCCGGTATTTAATCGT
     type:	Strand
-     test Rna generation s
-    nucleo acid:	ACGUCCGGUAUUUAAUCGU
+     test Rna generation 
+    nucleo acid:	ACGUCCGGUAUUUAAUCGUs
     type:	Rna
      display pseudo protein  
     [théonine, sérine, glycine, isoleucine]
