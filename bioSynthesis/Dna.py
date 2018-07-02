@@ -23,7 +23,7 @@ class Dna(Strand):
         return Rna(bases)
 
     def getComplStrand(this):
-        strand=Strand
+        Bases=[]
         for elem in this.nucleoAcids:
-            strand.getNucleoAcids().append(elem)
-        return strand;
+            Bases.append(elem)
+        return Strand(Bases);
