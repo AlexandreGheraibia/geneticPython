@@ -34,7 +34,7 @@ if __name__=="__main__":
     nucleo acid:	ACGTCCGGTATTTAATCGT
     type:	Strand
      test Rna generation 
-    nucleo acid:	ACGUCCGGUAUUUAAUCGUs
+    nucleo acid:	ACGUCCGGUAUUUAAUCGU
     type:	Rna
      display pseudo protein  
     [théonine, sérine, glycine, isoleucine]
